@@ -20,6 +20,6 @@
 
 <p>✏️ <a href="https://jvnlee.vercel.app/temporary-reservation-cache-integrity">Keyspace Notifications를 활용해 캐시 정합성 문제 해결하기</a></p>
 
-<p>✏️ <a href="https://jvnlee.vercel.app/tomcat-and-hikaricp-tuning-part1">Tomacat 쓰레드풀과 HikariCP 튜닝을 통해 RPS 개선하기</a></p>
+<p>✏️ <a href="https://jvnlee.vercel.app/tomcat-and-hikaricp-tuning-part1">Tomacat 쓰레드풀과 HikariCP 튜닝을 통해 RPS 개선 시도하기</a></p>
 
-<p>✏️ <a href="https://jvnlee.vercel.app/testcontainers-productivity-improvement">Testcontainers로 테스트 생산성 개선하기</a></p>
+<p>✏️ <a href="https://jvnlee.vercel.app/testcontainers-productivity-improvement">Testcontainers와 커스텀 컨텍스트 클래스로 테스트 생산성 개선하기</a></p>
