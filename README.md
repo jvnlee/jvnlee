@@ -14,7 +14,7 @@
 
 ## Articles
 
-<p>✏️ <a href="https://jvnlee.vercel.app/restaurant-search-optimization-part2">쿼리 튜닝과 CQRS를 활용해 조회 API 성능 개선하기</a></p>
+<p>✏️ <a href="https://jvnlee.vercel.app/restaurant-search-optimization-part2">쿼리 튜닝과 조회용 DB 도입을 활용해 조회 API 성능 개선하기</a></p>
 
 <p>✏️ <a href="https://jvnlee.vercel.app/temporary-reservation-implementation">캐시를 활용한 Soft Decrement로 동시 요청 시 비관적 락 사용 최소화 하기</a></p>
 
