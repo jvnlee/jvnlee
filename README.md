@@ -22,4 +22,4 @@
 
 <p>✏️ <a href="https://jvnlee.vercel.app/tomcat-and-hikaricp-tuning-part1">Tomcat 쓰레드풀과 HikariCP 튜닝을 통해 RPS 개선 시도하기</a></p>
 
-<p>✏️ <a href="https://jvnlee.vercel.app/testcontainers-productivity-improvement">Testcontainers와 커스텀 컨텍스트 클래스로 테스트 생산성 개선하기</a></p>
+<p>✏️ <a href="https://jvnlee.vercel.app/test-containers">Testcontainers와 커스텀 컨텍스트 클래스로 테스트 생산성 개선하기</a></p>
